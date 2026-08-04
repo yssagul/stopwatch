@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-LABEL="com.local.menubar-stopwatch"
+LABEL="com.local.stopwatch"
 PLIST_PATH="$HOME/Library/LaunchAgents/$LABEL.plist"
 BIN_DIR="$HOME/Library/Application Support/stopwatch"
 

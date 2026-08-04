@@ -44,7 +44,7 @@ This builds the binary, copies it to `~/Library/Application Support/stopwatch/st
 If you quit it and want it back without logging out again:
 
 ```bash
-launchctl kickstart -k gui/$(id -u)/com.local.menubar-stopwatch
+launchctl kickstart -k gui/$(id -u)/com.local.stopwatch
 ```
 
 ## Building manually
