@@ -2,7 +2,7 @@
 
 A tiny menu bar stopwatch for macOS. Click to start/stop, option-click (or right-click) to clear or quit.
 
-Most menu bar timer apps on GitHub are countdown timers. This is a stopwatch — it counts up, and that's all it does.
+<img width="175" height="97" alt="image" src="https://github.com/user-attachments/assets/f707c76f-df02-4374-9ea0-1a6b8c56f662" />
 
 ## Features
 
