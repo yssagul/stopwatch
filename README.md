@@ -29,6 +29,7 @@ cd stopwatch
 This builds the binary, copies it to `~/Library/Application Support/stopwatch/stopwatch`, and registers a `launchd` LaunchAgent so it starts at login and stays running.
 
 ## Uninstall
+From the cloned repo, run:
 
 ```bash
 ./uninstall.sh
