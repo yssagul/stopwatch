@@ -26,7 +26,7 @@ cd stopwatch
 ./install.sh
 ```
 
-This builds the binary, copies it to `~/bin/stopwatch`, and registers a `launchd` LaunchAgent so it starts at login and stays running.
+This builds the binary, copies it to `~/Library/Application Support/stopwatch/stopwatch`, and registers a `launchd` LaunchAgent so it starts at login and stays running.
 
 ## Uninstall
 
